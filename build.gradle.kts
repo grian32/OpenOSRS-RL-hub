@@ -8,7 +8,7 @@ plugins {
     checkstyle
     java
     id("com.simonharrer.modernizer") version "2.1.0-1" apply false
-    id("com.github.ben-manes.versions") version "0.29.0"
+    id("com.github.ben-manes.versions") version "0.31.0"
     id("se.patrikerdes.use-latest-versions") version "0.2.14"
 }
 
